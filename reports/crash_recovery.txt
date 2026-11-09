@@ -1,0 +1,21 @@
+kill 1: controller SIGKILLed at sim 2027-01-04T11:00:00+05:30
+kill 2: controller SIGKILLed at sim 2027-01-05T16:00:00+05:30
+kill 3: controller SIGKILLed at sim 2027-01-06T06:00:00+05:30
+kill 4: controller SIGKILLed at sim 2027-01-07T12:00:00+05:30
+kill 5: controller SIGKILLed at sim 2027-01-08T11:00:00+05:30
+kill 6: controller SIGKILLed at sim 2027-01-08T20:00:00+05:30
+kill 7: controller SIGKILLed at sim 2027-01-09T10:00:00+05:30
+kill 8: controller SIGKILLed at sim 2027-01-10T06:00:00+05:30
+kill 9: controller SIGKILLed at sim 2027-01-11T13:00:00+05:30
+kill 10: controller SIGKILLed at sim 2027-01-12T15:00:00+05:30
+kill 11: controller SIGKILLed at sim 2027-01-13T19:00:00+05:30
+
+public_02_incidents: 11 kills, 20 auto-applied, 3 applied via approval, 3 approval requests, dials ours=104000 sim=104000
+  PASS  scenario finished
+  PASS  controller was killed mid-run
+  PASS  no proposal applied twice
+  PASS  no apply conflicts
+  PASS  no refused auto-applies
+  PASS  no lost approval requests
+  PASS  no proposal stuck half-done
+  PASS  every dial ingested exactly once
