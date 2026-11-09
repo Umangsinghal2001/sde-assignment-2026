@@ -1,6 +1,6 @@
 # Outcome-First Agent Loop — Submission
 
-**Name:** Umang Singhal · **Date:** 2026-11-09 · **Hours actually spent (be honest):** _fill in before submitting_ ·
+**Name:** Umang Singhal · **Date:** 2026-11-09 · **Hours actually spent (be honest):** about 8–9, a large part of it reading the repo and the simulator before building ·
 **Language / storage:** Python 3.12, SQLite (stdlib, one file, WAL mode)
 
 ---
